@@ -1,4 +1,4 @@
-# **horiseon.com Accessibility Project**
+# **Horiseon.com Accessibility Project**
 
 ### Reformatting of horiseon.com to increase website accessibility and cleanup code
 
@@ -8,4 +8,4 @@
 
 ## Our Site:
 
-**URL:** https://raymondcerneytech.github.io/horizeon.com-accessibility/
+**URL:** https://raymondcerneytech.github.io/horiseon.com-accessibility/
